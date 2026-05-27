@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsdecrypt",
+        "uuid": 3462696,
+        "checksum": "ph46ho"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
